@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/React-Premier-Site/static/css/main.219658ac.chunk.css",
+    "main.js": "/React-Premier-Site/static/js/main.d21072b8.chunk.js",
+    "main.js.map": "/React-Premier-Site/static/js/main.d21072b8.chunk.js.map",
+    "runtime-main.js": "/React-Premier-Site/static/js/runtime-main.10eb64dd.js",
+    "runtime-main.js.map": "/React-Premier-Site/static/js/runtime-main.10eb64dd.js.map",
+    "static/js/2.73a38cc7.chunk.js": "/React-Premier-Site/static/js/2.73a38cc7.chunk.js",
+    "static/js/2.73a38cc7.chunk.js.map": "/React-Premier-Site/static/js/2.73a38cc7.chunk.js.map",
+    "static/js/3.46187235.chunk.js": "/React-Premier-Site/static/js/3.46187235.chunk.js",
+    "static/js/3.46187235.chunk.js.map": "/React-Premier-Site/static/js/3.46187235.chunk.js.map",
+    "index.html": "/React-Premier-Site/index.html",
+    "static/css/main.219658ac.chunk.css.map": "/React-Premier-Site/static/css/main.219658ac.chunk.css.map",
+    "static/js/2.73a38cc7.chunk.js.LICENSE.txt": "/React-Premier-Site/static/js/2.73a38cc7.chunk.js.LICENSE.txt",
+    "static/media/basil.be00474e.jpg": "/React-Premier-Site/static/media/basil.be00474e.jpg",
+    "static/media/cactus.a71c2062.jpg": "/React-Premier-Site/static/media/cactus.a71c2062.jpg",
+    "static/media/calathea.455c33e2.jpg": "/React-Premier-Site/static/media/calathea.455c33e2.jpg",
+    "static/media/lyrata.2e915120.jpg": "/React-Premier-Site/static/media/lyrata.2e915120.jpg",
+    "static/media/mint.b83a3d2e.jpg": "/React-Premier-Site/static/media/mint.b83a3d2e.jpg",
+    "static/media/monstera.6257bc6b.jpg": "/React-Premier-Site/static/media/monstera.6257bc6b.jpg",
+    "static/media/olivier.b2908b40.jpg": "/React-Premier-Site/static/media/olivier.b2908b40.jpg",
+    "static/media/pothos.d72dc0ac.jpg": "/React-Premier-Site/static/media/pothos.d72dc0ac.jpg",
+    "static/media/succulent.f4329849.jpg": "/React-Premier-Site/static/media/succulent.f4329849.jpg",
+    "static/media/sun.a9d8a86f.svg": "/React-Premier-Site/static/media/sun.a9d8a86f.svg",
+    "static/media/water.2f302cf4.svg": "/React-Premier-Site/static/media/water.2f302cf4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10eb64dd.js",
+    "static/js/2.73a38cc7.chunk.js",
+    "static/css/main.219658ac.chunk.css",
+    "static/js/main.d21072b8.chunk.js"
+  ]
+}
